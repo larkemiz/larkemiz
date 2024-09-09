@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨Hi, I'm Larkemiz <br>🖌️ Currently working on graphic design projects for marketing and communications at Corporación de Deportes La Pintana.<br><br>🔭 Learning and expanding my skills in Fullstack JavaScript development with Generation Chile, focusing on Node.js and React.js.<br><br>❤️‍🔥 I combine my passion for design and technology by creating innovative web solutions and enhancing UX/UI experiences in my spare time.  <br><br><br>
+🎨Hi, I'm Larkemiz <br>🖌️ Currently working on graphic design projects for marketing and communications at Corporación de Deportes La Pintana.<br><br>🔭 Learning and expanding my knowledge in UX/UI design while enhancing my front-end development skills.<br><br>❤️‍🔥 Merging my love for design and technology by crafting innovative web solutions and refining UX/UI experiences in my free time.  <br><br><br>
 
 # 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/LEPdesigner) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/loreto-esp-pez/) 
